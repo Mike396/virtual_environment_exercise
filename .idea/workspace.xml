@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4543134-bb46-44e9-b76b-0d6369085ba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src2/GithubSecond.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src2/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/src1/GithubMain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +27,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MKS/PersonalTestProjects/TesterProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/MKS/virtual_environment_exercise/src2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MKS\virtual_environment_exercise\src2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MKS\virtual_environment_exercise" />
       <recent name="C:\Users\MKS\virtual_environment_exercise\src1" />
       <recent name="C:\Users\MKS\virtual_environment_exercise\src2" />
     </key>
@@ -123,7 +119,7 @@
       <workItem from="1667895002708" duration="67000" />
       <workItem from="1667896740794" duration="22000" />
       <workItem from="1667983116558" duration="1039000" />
-      <workItem from="1667994931135" duration="6105000" />
+      <workItem from="1667994931135" duration="6924000" />
     </task>
     <servers />
   </component>
