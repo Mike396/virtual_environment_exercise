@@ -1,11 +1,11 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
-    name='GithubMain',
+    name='GithubPackages',
 
     url='https://github.com/Mike396/virtual_environment_exercise.git',
     author='mks',
     author_email='',
 
-    py_modules=['GithubMain'],
+    packages=find_packages(),
 )
