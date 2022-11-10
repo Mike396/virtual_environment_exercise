@@ -7,5 +7,5 @@ setup(
     author='mks',
     author_email='',
 
-    packages=find_packages(['GithubPackages'])
+    packages=find_packages()
 )
