@@ -7,5 +7,6 @@ setup(
     author='mks',
     author_email='',
 
-    packages=find_packages(),
+    packages=['GithubPackages'],
+    packages_dir={"GithubPackages": "./src"}
 )
