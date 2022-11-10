@@ -1,4 +1,4 @@
-from setuptools import setup, find_namespace_packages
+from setuptools import setup, find_packages
 
 setup(
     name='GithubPackages',
@@ -7,5 +7,5 @@ setup(
     author='mks',
     author_email='',
 
-    packages=find_namespace_packages(include=['GithubMain.py', 'GithubSecond.py']),
+    packages=find_packages(),
 )
