@@ -7,5 +7,5 @@ setup(
     author='mks',
     author_email='',
 
-    packages=find_namespace_packages(include=['GithubPackages']),
+    packages=find_namespace_packages(include=['GithubMain.py', 'GithubSecond.py']),
 )
