@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_namespace_packages
 
 setup(
     name='GithubPackages',
@@ -7,5 +7,5 @@ setup(
     author='mks',
     author_email='',
 
-    packages=find_packages(),
+    packages=find_namespace_packages(),
 )
