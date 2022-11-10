@@ -7,5 +7,8 @@ setup(
     author='mks',
     author_email='',
 
-    packages=find_packages(),
+    packages=find_packages(
+        where="src",
+        include=['GithubPackages']
+    ),
 )
