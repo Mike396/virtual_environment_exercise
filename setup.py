@@ -8,5 +8,5 @@ setup(
     author_email='',
 
     packages=['GithubPackages'],
-    packages_dir={"GithubPackages": "./src"}
+    package_dir={"GithubPackages": "./src"}
 )
