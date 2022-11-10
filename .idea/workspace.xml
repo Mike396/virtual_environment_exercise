@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4543134-bb46-44e9-b76b-0d6369085ba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GithubPackages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seconds/Other.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seconds/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubPackages/GithubMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/GithubPackages/GithubMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubPackages/GithubSecond.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/GithubPackages/GithubSecond.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubPackages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/GithubPackages/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       <recent name="C:\Users\MKS\virtual_environment_exercise\src2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MKS\virtual_environment_exercise" />
       <recent name="C:\Users\MKS\virtual_environment_exercise\src" />
+      <recent name="C:\Users\MKS\virtual_environment_exercise" />
       <recent name="C:\Users\MKS\virtual_environment_exercise\src1" />
       <recent name="C:\Users\MKS\virtual_environment_exercise\src2" />
     </key>
@@ -124,7 +124,7 @@
       <workItem from="1667896740794" duration="22000" />
       <workItem from="1667983116558" duration="1039000" />
       <workItem from="1667994931135" duration="8178000" />
-      <workItem from="1668093534770" duration="978000" />
+      <workItem from="1668093534770" duration="1364000" />
     </task>
     <servers />
   </component>
