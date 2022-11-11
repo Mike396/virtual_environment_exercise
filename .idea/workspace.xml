@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4543134-bb46-44e9-b76b-0d6369085ba8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GithubPackages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/GithubPackages/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,7 @@
       <workItem from="1667994931135" duration="8178000" />
       <workItem from="1668093534770" duration="3646000" />
       <workItem from="1668155051121" duration="23000" />
-      <workItem from="1668173531968" duration="6454000" />
+      <workItem from="1668173531968" duration="7245000" />
     </task>
     <servers />
   </component>
@@ -145,6 +145,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/virtual_environment_exercise$main.coverage" NAME="main Coverage Results" MODIFIED="1667822536152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/virtual_environment_exercise$GithubMain.coverage" NAME="GithubMain Coverage Results" MODIFIED="1667828830638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/virtual_environment_exercise$GithubMain.coverage" NAME="GithubMain Coverage Results" MODIFIED="1668180820821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
