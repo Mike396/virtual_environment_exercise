@@ -7,5 +7,5 @@ setup(
     author='mks',
     author_email='',
 
-    packages=find_packages(),
+    py_modules=['GithubMain', 'GithubSecond'],
 )
