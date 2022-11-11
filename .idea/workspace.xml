@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4543134-bb46-44e9-b76b-0d6369085ba8" name="Changes" comment="" />
+    <list default="true" id="a4543134-bb46-44e9-b76b-0d6369085ba8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/GithubPackages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +123,7 @@
       <workItem from="1667994931135" duration="8178000" />
       <workItem from="1668093534770" duration="3646000" />
       <workItem from="1668155051121" duration="23000" />
-      <workItem from="1668173531968" duration="334000" />
+      <workItem from="1668173531968" duration="667000" />
     </task>
     <servers />
   </component>
