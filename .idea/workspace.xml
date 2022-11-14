@@ -33,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/MKS/virtual_environment_exercise",
+    "last_opened_file_path": "C:/Users/MKS/dcalgo/dcalgo-us_miso_nipsmchcparr_dart",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -127,6 +127,7 @@
       <workItem from="1668173531968" duration="7680000" />
       <workItem from="1668414236401" duration="244000" />
       <workItem from="1668419992087" duration="660000" />
+      <workItem from="1668420954863" duration="1283000" />
     </task>
     <servers />
   </component>
