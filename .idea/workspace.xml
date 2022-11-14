@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4543134-bb46-44e9-b76b-0d6369085ba8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubPackages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/GithubPackages/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/MKS/PersonalTestProjects/TesterProject",
+    "last_opened_file_path": "C:/Users/MKS/virtual_environment_exercise",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -125,7 +124,9 @@
       <workItem from="1667994931135" duration="8178000" />
       <workItem from="1668093534770" duration="3646000" />
       <workItem from="1668155051121" duration="23000" />
-      <workItem from="1668173531968" duration="7245000" />
+      <workItem from="1668173531968" duration="7680000" />
+      <workItem from="1668414236401" duration="244000" />
+      <workItem from="1668419992087" duration="660000" />
     </task>
     <servers />
   </component>
